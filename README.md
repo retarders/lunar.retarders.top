@@ -1,1 +1,1 @@
-![](assets/rickroll.gif)
+including all the plugins needed for a cool minecraft server
