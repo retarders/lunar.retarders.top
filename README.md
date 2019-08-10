@@ -1,3 +1,3 @@
-including all the plugins needed for a cool minecraft server
+documentation: will write soooon
 
-[visit the website for more information](http://lunar.curahq.club)
+[view demo](http://lunar.curahq.club)
