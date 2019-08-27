@@ -6,7 +6,6 @@
     "build": "webpack",
     "deploy": "npm run build && surge ./dist lunar.curahq.club"
   },
-  "keywords": [],
   "author": "Alexander P <pcrunn@pm.me>",
   "license": "ISC",
   "devDependencies": {
